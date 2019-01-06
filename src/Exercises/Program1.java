@@ -27,6 +27,7 @@ public class Program1 {
 		sel.selectByIndex(3);
 		driver.findElement(By.tagName("button")).click();
 		
+		System.out.println(" Testing is completed !!");
 		
 		
 	}
